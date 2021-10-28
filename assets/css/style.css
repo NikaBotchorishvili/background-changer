@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: sans-serif;
+}
+
+header nav h2{
+    text-transform: uppercase;
+}
+
+main{
+    margin-top: 250px;
+    text-align: center;
+}
+
+main .color{
+    background-color: black;
+    width: 25%;
+    margin: 0 auto;
+    color: white;
+    border-radius: 8px;
+    margin-bottom: 15px;
+    padding: 5 0;
+}
+
+main #btn{
+    text-transform: uppercase;
+    padding: 10 15;
+    border-radius: 4px;
+}
